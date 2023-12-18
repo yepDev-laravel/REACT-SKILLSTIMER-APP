@@ -1,0 +1,16 @@
+body{
+    background-color: #e6e4e4;
+}
+.pokedex-container{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.bg-white{
+    background-color: white;
+    color: black;
+}
